@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/vadootvpeer/sdk-javascript#readme",
   "dependencies": {
-    "bittorrent-tracker": "^9.15.0",
+    "bittorrent-tracker": "^10.0.3",
     "debug": "^4.2.0",
     "simple-peer": "^9.7.2",
 	"events": "^3.2.0",
